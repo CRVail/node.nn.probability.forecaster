@@ -1,0 +1,30 @@
+{
+  "name": "brainjs.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "run-aiio": "index.js",
+    "run-sample-nn": "samples/nn.js",
+    "run-sample-lstm": "samples/lstm.js",
+    "run-sample-lstm-ts": "samples/lstm-ts.js",
+    "run-builder": "samples/builder.js",
+    "run-combiner": "samples/combiner.js",
+    "run-pbNNt": "samples/pbNNt.js",
+    "rundmc": "samples/poc.lstmts.js",
+    "chkl": "samples/test.js"
+  },
+  "scripts": {
+    "test": "tsc && cross-env NODE_OPTIONS=--experimental-vm-modules NODE_NO_WARNINGS=1 jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.23",
+    "cli-progress": "^3.12.0",
+    "gpu.js": "^2.16.0",
+    "http-proxy-middleware": "^3.0.0",
+    "jsonschema": "^1.4.1",
+    "log-update": "^6.0.0"
+  }
+}

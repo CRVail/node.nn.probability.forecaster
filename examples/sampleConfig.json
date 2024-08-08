@@ -1,0 +1,64 @@
+{
+    "configName": "powerball-forecaster",
+    "destDirectory": "C:\\Repository\\tasc.ai.pocs\\brainjs.2\\samples\\results\\",
+    "targets":[
+        {
+            "targetName": "powerball-data",
+            "endpoint": "https://data.ny.gov/api/views/d6yy-54nr/rows.json?accessType=DOWNLOAD",
+            "schema":[
+                {
+                    "primaryKey": "data",
+                    "childKeys": [
+                        {
+                            "childKey": 8,
+                            "keyName" : "date"
+                        },
+                        {
+                            "childKey": 9,
+                            "keyName" : "num",
+                            "format": {
+                                "type" : "split",
+                                "typeArg": " "
+                            }
+                        },
+                        {
+                            "childKey": 10,
+                            "keyName" : "pb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "targetName": "planetary-data",
+            "endpoint": "https://ssd-api.jpl.nasa.gov/cad.api?body=ALL&date-min=2024-04-03&date-max=2024-04-04",
+            "schema":[
+                {
+                    "primaryKey": "data",
+                    "childKeys": [
+                        {
+                            "childKey": 1,
+                            "keyName" : "orbit_id"
+                        },
+                        {
+                            "childKey": 3,
+                            "keyName" : "date"
+                        },
+                        {
+                            "childKey": 4,
+                            "keyName" : "dist"
+                        },
+                        {
+                            "childKey": 5,
+                            "keyName" : "dist-min"
+                        },
+                        {
+                            "childKey": 6,
+                            "keyName" : "dist-max"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

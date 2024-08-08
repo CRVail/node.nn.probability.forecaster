@@ -1,0 +1,196 @@
+{
+    "data": {
+      "pbProbs": [
+        {
+          "powerballNumber": "1",
+          "occurrences": "79",
+          "possibleProbability": "0.00184158"
+        },
+        {
+          "powerballNumber": "2",
+          "occurrences": "75",
+          "possibleProbability": "0.00174905"
+        },
+        {
+          "powerballNumber": "3",
+          "occurrences": "85",
+          "possibleProbability": "0.00198169"
+        },
+        {
+          "powerballNumber": "4",
+          "occurrences": "82",
+          "possibleProbability": "0.00190929"
+        },
+        {
+          "powerballNumber": "5",
+          "occurrences": "80",
+          "possibleProbability": "0.00186555"
+        },
+        {
+          "powerballNumber": "6",
+          "occurrences": "72",
+          "possibleProbability": "0.00167798"
+        },
+        {
+          "powerballNumber": "7",
+          "occurrences": "85",
+          "possibleProbability": "0.00198169"
+        },
+        {
+          "powerballNumber": "8",
+          "occurrences": "81",
+          "possibleProbability": "0.00188672"
+        },
+        {
+          "powerballNumber": "9",
+          "occurrences": "75",
+          "possibleProbability": "0.00174905"
+        },
+        {
+          "powerballNumber": "10",
+          "occurrences": "76",
+          "possibleProbability": "0.00177029"
+        },
+        {
+          "powerballNumber": "11",
+          "occurrences": "81",
+          "possibleProbability": "0.00188672"
+        },
+        {
+          "powerballNumber": "12",
+          "occurrences": "76",
+          "possibleProbability": "0.00177029"
+        },
+        {
+          "powerballNumber": "13",
+          "occurrences": "88",
+          "possibleProbability": "0.00205053"
+        },
+        {
+          "powerballNumber": "14",
+          "occurrences": "79",
+          "possibleProbability": "0.00184158"
+        },
+        {
+          "powerballNumber": "15",
+          "occurrences": "74",
+          "possibleProbability": "0.00172281"
+        },
+        {
+          "powerballNumber": "16",
+          "occurrences": "82",
+          "possibleProbability": "0.00190929"
+        },
+        {
+          "powerballNumber": "17",
+          "occurrences": "84",
+          "possibleProbability": "0.00195845"
+        },
+        {
+          "powerballNumber": "18",
+          "occurrences": "76",
+          "possibleProbability": "0.00177029"
+        },
+        {
+          "powerballNumber": "19",
+          "occurrences": "77",
+          "possibleProbability": "0.00179153"
+        },
+        {
+          "powerballNumber": "20",
+          "occurrences": "80",
+          "possibleProbability": "0.00186555"
+        },
+        {
+          "powerballNumber": "21",
+          "occurrences": "73",
+          "possibleProbability": "0.00169814"
+        },
+        {
+          "powerballNumber": "22",
+          "occurrences": "77",
+          "possibleProbability": "0.00179153"
+        },
+        {
+          "powerballNumber": "23",
+          "occurrences": "77",
+          "possibleProbability": "0.00179153"
+        },
+        {
+          "powerballNumber": "24",
+          "occurrences": "77",
+          "possibleProbability": "0.00179153"
+        },
+        {
+          "powerballNumber": "25",
+          "occurrences": "77",
+          "possibleProbability": "0.00179153"
+        },
+        {
+          "powerballNumber": "26",
+          "occurrences": "85",
+          "possibleProbability": "0.00198169"
+        },
+        {
+          "powerballNumber": "27",
+          "occurrences": "75",
+          "possibleProbability": "0.00174905"
+        },
+        {
+          "powerballNumber": "28",
+          "occurrences": "84",
+          "possibleProbability": "0.00195845"
+        },
+        {
+          "powerballNumber": "29",
+          "occurrences": "82",
+          "possibleProbability": "0.00190929"
+        },
+        {
+          "powerballNumber": "30",
+          "occurrences": "81",
+          "possibleProbability": "0.00188672"
+        },
+        {
+          "powerballNumber": "31",
+          "occurrences": "78",
+          "possibleProbability": "0.00181432"
+        },
+        {
+          "powerballNumber": "32",
+          "occurrences": "79",
+          "possibleProbability": "0.00184158"
+        },
+        {
+          "powerballNumber": "33",
+          "occurrences": "76",
+          "possibleProbability": "0.00177029"
+        },
+        {
+          "powerballNumber": "34",
+          "occurrences": "80",
+          "possibleProbability": "0.00186555"
+        },
+        {
+          "powerballNumber": "35",
+          "occurrences": "76",
+          "possibleProbability": "0.00177029"
+        },
+        {
+          "powerballNumber": "36",
+          "occurrences": "83",
+          "possibleProbability": "0.00193606"
+        },
+        {
+          "powerballNumber": "37",
+          "occurrences": "81",
+          "possibleProbability": "0.00188672"
+        },
+        {
+          "powerballNumber": "38",
+          "occurrences": "82",
+          "possibleProbability": "0.00190929"
+        }
+      ]
+    }
+  }
